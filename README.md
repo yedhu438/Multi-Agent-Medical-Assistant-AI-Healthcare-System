@@ -76,7 +76,7 @@ For learners: Refer `agents/README.md` for detailed explanation of the agentic w
 ## 💫 Demo <a name="demo"></a>
 
 
-https://github.com/user-attachments/assets/d27d4a2e-1c7d-45e2-bbc5-b3d95ccd5b35
+
 
 
 If you like what you see and would want to support the project's developer, you can <a href="https://www.buymeacoffee.com/souvikmajumder" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> ! :)
@@ -352,3 +352,4 @@ python ingest_rag_data.py --file ./data/raw/brain_tumors_ucni.pdf
 ```bash
 python ingest_rag_data.py --dir ./data/raw
 ```
+
